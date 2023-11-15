@@ -1,0 +1,134 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_TableauDeBord
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAACuDm2znYb5yR2vNUzYhDLiaytCKwTHXcT2Is1QhOhGTUQBjcvmXmkT7v9Zs1eGxKDAnvLyf5l3hs1ASvBkjYTSq7vnrnp6H4IpvMUQ2loOnraRLvTEIhwSCKrqsiTYnd8KUzCMCdxYl+mKlydDU5epzKRe6mD8HXqet65tlLWTc4GqvjadNfuep9TbB0mXkmORbFL88Jis9C1I48VL1AjP9m2I4ukufUoUVMqxI+c1I3HW3UIVRDQduPHfmGrtGj1y5fNSwW5Imu8pJCjB/gXA4UdVtx0XQdr65DPfsRZTYhz6MhZkmEfNoN31vOzwrYFOe5InN0AagOQg5qyJW3WDK7IJNTaJDr+dz6isJgAqZxJS/mqwb6ZWbKZuKtUgeWypQOCfUpzM3K0ERT2Ly9zPe+h16akJb4y9aw35M/JWtFrZBBmlJvqdfzgW+PGfsLmjRlaAFHcqJvc0HWmuMMWJN7MozPBsD3PhNG+LxXG+BWd9tuBwyGQiUfg9f3v3+XmXVMrZrp92hOrRbXcWWP1JcR/Ynj0Hpk3LlvKskdssMkhmlfkLbxnroMHgKeDb6vpDB2ZSqzIJ2Z+I+/fZ0+fGXO3d0hqkK716RKAXtMNsXscVDolYkmfEU+Y75/hrjFdINneCDJL2NlGF9j2WU8YwQVWE/eJWxduwNz5D6jj9zHWRwiG5o2PQPN5ZJNz1A3h/fo1Z7nhsxmS193emLbwpxm3sG4sqjvzRVTg0cOvKtJ8H0N3dCox35SSmTHCx8gkmH/+XQSnjO/RCMuXZENNhIfh9K3hypi4mg/KFpigrRoW9BccMyCzfQR3Pxwn//y0QrA5NfWKXzpHFEj9Y5FWn7h0xMj1J5Z2x6Ef1XijGRTpPyJCR/aAOZwMmRebCM6MLJbFTZDQad8oM2fI9PUoSeID9+A61wsaeETixwkwtM/VRKPcuc4sap67/OqPwJCnzDBUwtSyjkLtuNfvhCnkjgLr9/2rOiQEFyWKlL6TAGJ3LQRJvu/8O/4YxiSl6euA/aKvDlqVQq+CU8xZjMRRP9AMjRdQIs7+LBpaeqOjUOl4AyvEDAiuc8QChduo1kuriaEGx8tjCgla3M93iqzLbDN61QEx28ke0jZSb+THmq9yOkaVQBvILVaXFqad/U22IK9kw3tJquiHWUmLUHi2mwlTX0RSaZunRs+9u41RUAOlFDFBXwKWccYHx5n6XNyFfpv3e6pE9rV9o4mRxeV6bMTvHf9qYUZK8wTsdIAwQGeC9iI3cmQaZeenkJq+b7ZDs600lxOZz/LVVYfECLCkKfEZnxJtY3G8BBe537rAkg/SNqLsc4A6WUQnmgWgoBjPYdT1NKhjHAj8f20Vjc8jYnCdSDUzvIJ+XVPXf7RCNV6Udj98287bwJ/7bxEjNyQrBgXqtX30lcq8tNoB9adUsv0VLTZMUTywaBBNi3fILMawfom2t+3keqG7mD80w4NNgvgTBnchda8DohnQFrdHYQygAM0sZ6oh1EAdnjPtXIrNP2hEF6erGZvwaWI/0OjW1zYEr0Txn6NewZiLGjrnsWrFKs7YbDLrBaiyE82g4dFev37YECvmvKhnuprM9RvSWVlUSoK1kyUfZBegRmMmuZZNiv3+AZrg3TqltW74cISKkItTLB/+2QzRhjoqdoUpNRvD/e0ETl6+nbFpgdaByD+Jd3SHV8YcjMXjpvZ5ygh7OKyWoPVfn/NP79/0lxF/Kp/3IuSuamWxt1L8n71m+CI1AQxbg0gDL2frcXQjVujCh1Y8XxB2wXKIgoU1JhVzMPxwHpMWrVO/8R4biSZvlMoACygb+eHATc72zzH/p46i8GnVQeXJ927smTMkdl4g7f5Jir/8C99d1H45gBEO03AZkyf5NhQOFFdZe0AZRx2ZA03V0IWIVnB0kFTtfwCWg3pdx0N9WWZcMtdILPBLhfYd6lIC6J6bX9X8KLpSIbxaIP6oI8jU=
+ configurations :
+  -
+    name : Site
+    internal_properties : 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
+    configuration_id : 15622604422943808510
+    type : 2
+    generation_name : test20.wdl
+    version : {}
+    language : 1
+    64bits : true
+ elements :
+  identifier : 0x4446583d0002b62b
+  elements :
+   -
+     name : PI_Widget_Horloge
+     identifier : 0x44468e300012743d
+     internal_properties : CAAAAAgAAAAxDWm9ijd/sL8hBxkWY2rZc9aiui4apa1xAXYyOcZMjHC8Zx3yzoLk2EK8BIxEPKwUHA==
+     physical_name : .\PI_Widget_Horloge.wwh
+     type : 65542
+   -
+     name : PI_Widget_Heure
+     identifier : 0x4446592900104f7e
+     internal_properties : CAAAAAgAAAAlIQ0RrstjfMttHnpIQ2eMq/qiKqKegpyhVbjoe4SWUvp6Ak3MPI2wlI4I8LAg2MgwMA==
+     physical_name : .\PI_Widget_Heure.wwh
+     type : 65542
+   -
+     name : PAGE_TableaudeBord
+     identifier : 0x44465860000a40b7
+     internal_properties : CAAAAAgAAAAAfnikA3gwa3TqmjLLED2uGr/pyQ8zD2BNzmPNzHMhz22BVuoT9QstEQv1w0O9RbsFDQ==
+     physical_name : .\PAGE_TableaudeBord.wwh
+     type : 65538
+   -
+     name : PI_Widget_Rappels
+     identifier : 0x44589f87001ecffc
+     internal_properties : CAAAAAgAAADCuDpuXQoiPZpOa3MDTGSDqMVnf8V509eNnnE3Fhn7xWOfuRYL/ZrV411HsXFvC/3HTw==
+     physical_name : .\PI_Widget_Rappels.wwh
+     type : 65542
+   -
+     name : PI_Widget_EmailsNonLus
+     identifier : 0x44589f4c001ceb49
+     internal_properties : CAAAAAgAAAD+ZNbK+aYOIS6iT+S33oLeyEUXH6VB9nKJV82TKuUvoRfroknSLv65h7ErlR3TryHraw==
+     physical_name : .\PI_Widget_EmailsNonLus.wwh
+     type : 65542
+   -
+     name : PI_Widget_ChiffreCle
+     identifier : 0x445a12a4003cba1e
+     internal_properties : CAAAAAgAAAAT70tfbNlRCtXf2S9wh+6I75g6ikD8KbyhPZvVTvEl2xEv8VncLOhecqwW4qJeGo52/g==
+     physical_name : .\PI_Widget_ChiffreCle.wwh
+     type : 65542
+   -
+     name : PI_Widget_AlerteStock
+     identifier : 0x445a0912003857f1
+     internal_properties : CAAAAAgAAADtacXZ5lPbhFMpXiPwC/HF57aOxg5qDuSu4BwMJ+iqZu52eW7fIWHc/CaQaCjYoBD4eA==
+     physical_name : .\PI_Widget_AlerteStock.wwh
+     type : 65542
+   -
+     name : PI_Widget_RendezVous
+     identifier : 0x445a063600342c40
+     internal_properties : CAAAAAgAAAAHA2+zcC2FprF7WUWk+4x63/y6csRYA7tKrWn/rGOrXe8BYVvq3hjqzkiyDpZKNqoSEg==
+     physical_name : .\PI_Widget_RendezVous.wwh
+     type : 65542
+  other_elements :
+   -
+     physical_name : .\WW_TABLEAUDEBORD_WEB\Images\alerte.png
+   -
+     physical_name : .\WW_TABLEAUDEBORD_WEB\Images\ok.png
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ common_generation_directory : true
+ wb_skin : 200 Willy
+ wb_color_palette : Phenix
+ languages :
+  - fr-FR
+ wd_style_sheet : .\test20.sty
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : PAGE_TableaudeBord
+     parameters : []
+     title : {}
+     description : {}
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAAA0+vVjkCltAi2cs2zySy5xf7s7PVw8QT5ZWCmBRfIts202bJSxnGQP+glp5PIQO57fKQUtU/2HxHjAT7rIYC1om+66fvqKtaruUcaO3PkeR6bQnXThtiN0nh0Cb7LP1CAl6uonEw==
+  type_code : 0
+  p_codes :
+   -
+     code : |1+
+      
+      // Variables de test pour les widgets
+      gnNbRappels est un entier = 12
+      gnNbEmails est un entier = 26
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Site
+     identifier : 0x4446583d0003b63a
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : test20
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
